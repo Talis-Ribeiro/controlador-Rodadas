@@ -15,7 +15,7 @@ enviar a requisição, clicando em **SEND**.
  ![envioReq](https://github.com/Talis-Ribeiro/controlador-Rodadas/assets/141956470/c9fa7377-a204-41e7-83e0-df240c28a1c7)
 
 
- **3 -** A cada clique em SEND uma nova requisição é enviada, assim sendo, é a vez do próximo Jogador e quando acabarem os jogadores, inicia-se uma nova rodada com o primeiro jogador.
+ **3 -** A cada clique em SEND uma nova requisição é enviada, assim sendo, é vez do próximo Jogador e quando acabarem os jogadores, inicia-se uma nova rodada com o primeiro jogador.
  
  ![primeiroJogador](https://github.com/Talis-Ribeiro/controlador-Rodadas/assets/141956470/6251bf2a-d20d-4efc-a99d-fdef89a1b995)
  
